@@ -517,4 +517,9 @@ body {
   .rsvp-form {
     margin-top: 10rem;
   }
+
+  .form-message-wrap textarea {
+    min-height: 8lh;
+    max-height: 12lh;
+  }
 }
