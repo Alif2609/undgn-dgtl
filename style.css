@@ -273,7 +273,7 @@ body {
 .blue-bg {
   margin-top: 4rem;
   padding: 3.5rem 2rem;
-  background-image: url(/Navy/assets/bluebg.png);
+  background-image: url(/assets/bluebg.png);
   background-repeat: no-repeat;
   background-size: cover;
   color: var(--clr-bg);
