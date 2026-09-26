@@ -341,7 +341,7 @@ body {
 .maps-img {
   min-width: 100%;
   min-height: 210px;
-  background-image: url(/Navy/assets/map.png);
+  background-image: url(/assets/map.png);
   background-repeat: no-repeat;
   background-size: cover;
   border: 2px solid var(--clr-primary-60);
